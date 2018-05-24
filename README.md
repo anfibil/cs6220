@@ -19,20 +19,14 @@ Everaldo Aguiar and Reid Johnson will be your course instructors, and if you com
 
 A large portion of the code snippets that are provided here were adapted from material that is freely available online. As such, you are strongly encouraged to review these (and any other relevant sources you may find) if you wish to improve your Python skills.  
 
-* scikit-learn examples
-[scikit-learn examples](http://scikit-learn.org/stable/auto_examples/)
+* [Official scikit-learn Examples](http://scikit-learn.org/stable/auto_examples/)
 
-* Pandas tutorials
-[http://pandas.pydata.org/pandas-docs/version/0.18.1/tutorials.html](http://pandas.pydata.org/pandas-docs/version/0.18.1/tutorials.html)
+* [Official pandas Tutorials](http://pandas.pydata.org/pandas-docs/version/0.18.1/tutorials.html)
 
-* Data Science notebooks (you can find several other great compiled lists of notebooks like this)
-[https://github.com/donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+* [Donne Martin's Data Science Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
-* Materials and notebooks for "Python for Data Analysis" by Wes McKinney
-[https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book)
+* [Materials and Notebooks for "Python for Data Analysis" by Wes McKinney](https://github.com/wesm/pydata-book)
 
-* Materials and notebooks for "Python Data Science Handbook" by Jake VanderPlas
-[https://github.com/jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Materials and Notebooks for "Python Data Science Handbook" by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-* Materials and notebooks for "Programming Collective Intelligence" By Toby Segaran
-[https://github.com/cataska/programming-collective-intelligence-code](https://github.com/cataska/programming-collective-intelligence-code)
+* [Materials and Notebooks for "Programming Collective Intelligence" By Toby Segaran](https://github.com/cataska/programming-collective-intelligence-code)
