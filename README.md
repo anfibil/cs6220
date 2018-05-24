@@ -23,5 +23,6 @@ A large portion of the code snippets that are provided here were adapted from ma
 ](http://scikit-learn.org/stable/auto_examples/)
 * Pandas tutorials: [http://pandas.pydata.org/pandas-docs/version/0.18.1/tutorials.html](http://pandas.pydata.org/pandas-docs/version/0.18.1/tutorials.html)
 * Data Science notebooks (you can find several other great compiled lists of notebooks like this): [https://github.com/donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-* Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney: [https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book)
-* Materials and IPython notebooks for "Programming Collective Intelligence" By Toby Segaran: [https://github.com/cataska/programming-collective-intelligence-code](https://github.com/cataska/programming-collective-intelligence-code)
+* Materials and Jupyter notebooks for "Python for Data Analysis" by Wes McKinney: [https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book)
+* Materails and Jupyter notebooks for "Python Data Science Handbook" by Jake VanderPlas [https://github.com/jakevdp/PythonDataScienceHandbook]
+* Materials and Jupyter notebooks for "Programming Collective Intelligence" By Toby Segaran: [https://github.com/cataska/programming-collective-intelligence-code](https://github.com/cataska/programming-collective-intelligence-code)
