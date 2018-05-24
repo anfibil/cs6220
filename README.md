@@ -24,4 +24,4 @@ A large portion of the code snippets that are provided here were adapted from ma
 * [Donne Martin's Data Science Python Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Materials and Notebooks for "Python for Data Analysis" by Wes McKinney](https://github.com/wesm/pydata-book)
 * [Materials and Notebooks for "Python Data Science Handbook" by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
-* [Materials and Notebooks for "Programming Collective Intelligence" By Toby Segaran](https://github.com/cataska/programming-collective-intelligence-code)
+* [Materials and Notebooks for "Programming Collective Intelligence" By Toby Segaran](https://github.com/ferronrsmith/programming-collective-intelligence-code)
