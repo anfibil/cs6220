@@ -21,7 +21,7 @@ A large portion of the code snippets that are provided here were adapted from ma
 
 * scikit-learn examples
 [http://scikit-learn.org/stable/auto_examples/
-](http://scikit-learn.org/stable/auto_examples/)
+](scikit-learn examples)
 
 * Pandas tutorials
 [http://pandas.pydata.org/pandas-docs/version/0.18.1/tutorials.html](http://pandas.pydata.org/pandas-docs/version/0.18.1/tutorials.html)
