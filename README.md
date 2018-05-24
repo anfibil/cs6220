@@ -20,8 +20,7 @@ Everaldo Aguiar and Reid Johnson will be your course instructors, and if you com
 A large portion of the code snippets that are provided here were adapted from material that is freely available online. As such, you are strongly encouraged to review these (and any other relevant sources you may find) if you wish to improve your Python skills.  
 
 * scikit-learn examples
-[http://scikit-learn.org/stable/auto_examples/
-](scikit-learn examples)
+[scikit-learn examples](http://scikit-learn.org/stable/auto_examples/)
 
 * Pandas tutorials
 [http://pandas.pydata.org/pandas-docs/version/0.18.1/tutorials.html](http://pandas.pydata.org/pandas-docs/version/0.18.1/tutorials.html)
